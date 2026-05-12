@@ -1,7 +1,7 @@
 Conteúdo inicial:
 
 # Aula de Git
-Aluno: NOME_DO_ALUNO
+Aluno: Gustavo Teixeira Rocha Araujo
 ## Objetivo
 Aprender controle de versão utilizando Git e GitHub.
 ## Tecnologias estudadas
